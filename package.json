@@ -1,0 +1,19 @@
+{
+  "name": "bsk-demo",
+  "version": "1.0.0",
+  "description": "Bowling Score Card",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/divyavenu/UnitTest-demo.git"
+  },
+  "author": "Divya Venugopalan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/divyavenu/UnitTest-demo/issues"
+  },
+  "homepage": "https://github.com/divyavenu/UnitTest-demo#readme"
+}
